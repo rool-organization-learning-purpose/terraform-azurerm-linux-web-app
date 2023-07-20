@@ -1,3 +1,4 @@
+#
 resource "azurerm_application_insights" "this" {
   count               = var.enable_appinsights ? 1 : 0
   name                = "web-${var.project}-${var.env}-${var.location}-${var.name}"
