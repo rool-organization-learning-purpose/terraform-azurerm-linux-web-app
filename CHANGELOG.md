@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/compare/v1.0.0...v1.0.1) (2023-07-21)
+
+
+### Bug Fixes
+
+* epmadpafic 878 review GitHub security permissions ([#14](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/issues/14)) ([d1fb022](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/commit/d1fb022e43e669f2f7357ca0492401a8ad1f895f))
+* epmadpafic 878 review GitHub security permissions ([#15](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/issues/15)) ([ed75809](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/commit/ed75809f9c395155ed5d5f2d411fef0f4993b83b))
+
 # 1.0.0 (2023-07-21)
 
 
