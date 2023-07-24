@@ -25,6 +25,7 @@ jobs:
         with:
           fetch-depth: 0
 
+
         # Configure the bot user account's name and email for commit
       - name: Configure Git
         run: |
