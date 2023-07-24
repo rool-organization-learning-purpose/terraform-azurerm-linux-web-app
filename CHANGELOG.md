@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/compare/v1.1.1...v1.1.2) (2023-07-24)
+
+
+### Bug Fixes
+
+* bot test N1 ([#19](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/issues/19)) ([eaa6d9e](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/commit/eaa6d9ea709bae90d09e129f3b7cb21aab12d0a2))
+
 ## [1.1.1](https://github.com/rool-organization-learning-purpose/terraform-azurerm-linux-web-app/compare/v1.1.0...v1.1.1) (2023-07-24)
 
 
